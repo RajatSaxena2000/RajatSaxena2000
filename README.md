@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me https://www.linkedin.com/in/rajat-saxena-207712212/
+- 📫 How to reach me www.linkedin.com/in/
+rajat-saxena-207712212
+
 
 
 <!---
